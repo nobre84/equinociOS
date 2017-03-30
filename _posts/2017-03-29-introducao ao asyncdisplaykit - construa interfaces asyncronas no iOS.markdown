@@ -2,7 +2,7 @@
 layout:     post
 title:      "Interfaces assíncronas com AsyncDisplayKit"
 subtitle:   "Uma introdução ao AsyncDispkayKit"
-date:       2017-03-29 12:00:00
+date:       2017-03-29 00:00:00
 author:     “Guga Oliveira“
 header-img: "img/gugaoliveira/layoutable-types.png"
 category:   UI
